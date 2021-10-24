@@ -31,10 +31,10 @@
 - [ ] 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 
 ### Medium
-- [ ] 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x] 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [x] 2. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [x] 3. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] 4. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [x] 4. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] 5. [Jump Game](https://leetcode.com/problems/jump-game/)
 - [ ] 6. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
