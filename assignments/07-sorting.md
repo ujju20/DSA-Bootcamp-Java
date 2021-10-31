@@ -7,9 +7,9 @@
 # Questions
 
 ## Easy
-- -[ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- -[x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - -[ ] [Majority Element](https://leetcode.com/problems/majority-element/)
-- -[ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- -[x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - -[ ] [Missing Number](https://leetcode.com/problems/missing-number/)
 - -[ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - -[ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
@@ -20,7 +20,7 @@
 - -[ ] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - -[ ] [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 - -[ ] [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
-- -[ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- -[x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - -[ ] [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
 - -[ ] [Height Checker](https://leetcode.com/problems/height-checker/)
 - -[ ] [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
@@ -34,7 +34,7 @@
 - -[ ] [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - -[ ] [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 - -[ ] [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
-- -[ ] [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+- -[x] [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - -[ ] [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - -[ ] [2Sum](https://leetcode.com/problems/two-sum/)
 
