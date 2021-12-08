@@ -22,27 +22,27 @@
 - -[x] [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
 - -[x] [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
 - -[x] [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
-- -[ ] Write a recursive function for given n and a to determine x:
+- -[x] Write a recursive function for given n and a to determine x:
 ```java
       n = a ^ x 
       a = 2, 3, 4
       (2 ^ -31) <= n <= (2 ^ 31) - 1      
 ```
-- -[ ] [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
-- -[ ] [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
-- -[ ] [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
+- -[x] [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
+- -[x] [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
+- -[x] [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
 - -[ ] [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
-- -[ ] [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
+- -[x] [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
 - -[ ] [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
-- -[ ] [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
+- -[x] [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
 
 ## Medium
 - -[ ] [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
 - -[ ] [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
 - -[ ] [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
-- -[ ] [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
-- -[ ] [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
-- -[ ] [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
+- -[x] [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
+- -[x] [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
+- -[x] [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
 - -[ ] [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
 - -[ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 - -[ ] [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
