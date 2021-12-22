@@ -38,7 +38,7 @@
 
 ## Medium
 - -[x] [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
-- -[ ] [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
+- -[x] [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
 - -[x] [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
 - -[x] [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
 - -[x] [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
@@ -55,7 +55,7 @@
 - -[ ] [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
 - -[ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
 - -[ ] [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`
-- -[ ] [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
+- -[x] [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
 - -[x] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
 - -[x] [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
 - -[ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
