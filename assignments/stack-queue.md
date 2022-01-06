@@ -17,9 +17,9 @@
 - [x] [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
 - [x] [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
 - [ ] [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
-- [ ] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
-- [ ] [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
-- [ ] [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
+- [x] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
+- [x] [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
+- [x] [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
 - [ ] [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) `leetcode`
 - [ ] [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode`
 - [ ] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) `GFG` `Amex` `Amazon`
