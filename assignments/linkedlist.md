@@ -32,7 +32,7 @@
 - [ ]  [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)`leetcode`
 
 ## Hard
-- [ ]  [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`
+- [x]  [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`
 - [ ]  [LFU Cache](https://leetcode.com/problems/lfu-cache/) `leetcode` `Google`
 - [ ]  [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `leetcode`
 - [ ]  [Clone a linked list with next and random pointer](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/) `GFG` `Google` `Flipkart`
